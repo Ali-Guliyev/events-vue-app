@@ -29,6 +29,16 @@
       "date": "October 11, 2022",
       "time": "13:00",
       "organizer": "Osman Gulubayli"
+    },
+    { 
+      "id": 4, 
+      "category": "Birthday", 
+      "title": "Suleyman's Birthday", 
+      "description": "Don't forget to celebrate Suleyman's birthday🥳🎉!",
+      "location": "Istanbul", 
+      "date": "June 1, 2021",
+      "time": "16:00",
+      "organizer": "Suleyman Guliyev"
     }
   ]
 }
