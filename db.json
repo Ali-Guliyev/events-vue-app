@@ -39,6 +39,26 @@
       "date": "June 1, 2021",
       "time": "16:00",
       "organizer": "Suleyman Guliyev"
+    },
+    {
+      "id": 5
+      "category": "Birthday",
+      "title": "Amir's Birthday",
+      "description": "Dont Forget to Celebrate Amir's Birthday.",
+      "location": "12 Newton Rd",
+      "date": "July 02",
+      "time": "All day",
+      "organizer": "Huseyn"
+    },
+    {
+      "id": 6,
+      "category": "Birthday",
+      "title": "Leyla's Birthday",
+      "description": "Please Forget to Celebrate Leylas's Birthday.",
+      "location": "12 Newton Rd",
+      "date": "November 21",
+      "time": "All day",
+      "organizer": "Huseyn"
     }
   ]
 }
