@@ -59,6 +59,26 @@
       "date": "November 21",
       "time": "All day",
       "organizer": "Huseyn"
+    },
+    {
+      "id": 7,
+      "category": "PlayDate",
+      "title": "Meet-Up with Friends",
+      "description": "Meet Up With Us To Have Fun And Play Games!",
+      "location": "Dundonald Park",
+      "date": "July 5, 2021",
+      "time": "11:00",
+      "organizer": "Ali Guliyev"
+    },
+    {
+      "id": 8,
+      "category": "Birthday",
+      "title": "Adnan's Birthday",
+      "description": "Dont Forget to Celebrate Adnan's Birthday. BRING LOTS OF PRESENTS 🎁 (and Cake 🎂 =D )",
+      "location": "12 Newton Rd",
+      "date": "May 31",
+      "time": "All day",
+      "organizer": "Huseyn"
     }
   ]
 }
